@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { privateRoute } from "../config/passport";
+//import { privateRoute } from "../config/passport";
 
 //import * as ApiController from '../controllers/apiController'
 
